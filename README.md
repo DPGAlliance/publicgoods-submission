@@ -14,6 +14,10 @@ The submission form is a web application (webapp) built using [Next.js](https://
 
 The forms are [Data Driven Forms](https://data-driven-forms.org/), configured through this JSON schema: [schema.js](schemas/schema.js).
 
+## Bugs
+
+If you notice anything amiss, refer to [BUGS.MD](BUGS.md) on how to report bugs.
+
 ## :memo: License
 
 This software is licensed under the [Apache License 2.0](LICENSE):
