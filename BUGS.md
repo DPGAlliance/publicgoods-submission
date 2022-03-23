@@ -36,4 +36,3 @@ On creating a new issue, you should see a bug reporting template available. Plea
 - What browser did this occur on?
 - What operating system did this occur on?
 
-### (Optional) Screenshot
